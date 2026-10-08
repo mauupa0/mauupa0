@@ -1,16 +1,26 @@
-# Oktawian
+# Oktawian Palikot
 
-Robię strony internetowe, aplikacje webowe i gry na Roblox.
+Computer Science student in Kraków, Poland. I build web apps, Roblox games and tools for running AI coding agents.
 
-*I build websites, web apps and Roblox games.*
+Portfolio: [oktawian-portfolio.vercel.app](https://oktawian-portfolio.vercel.app) | [LinkedIn](https://www.linkedin.com/in/oktawian-palikot-515522227/)
 
-- **Web:** Next.js, React, TypeScript, Tailwind CSS, Supabase, Postgres
-- **Gry:** Roblox, Luau, Rojo
-- **Hosting i testy:** Vercel, Cloudflare Workers, Playwright, GitHub Actions
+## What I'm working on
 
-## Repozytoria
+- **Plan IDEIS** - a timetable and study app for my university year, used by 40 students with accounts. Next.js, React, PostgreSQL.
+- **Center** - my local command center where several Claude Code agents work side by side, with a shared task queue and a decision panel on my phone. Node.js, React, Vite.
+- **Card Empire** and **Guru Evolution** - Roblox games published under ONTW Studios. Luau, Rojo.
+- **OTW** - websites and a client portal for small businesses. Next.js, Supabase.
 
-- [claude-code-skills-pl](https://github.com/mauupa0/claude-code-skills-pl) - skille do Claude Code z produkcyjnej roboty
-- [roblox-rojo-game-template](https://github.com/mauupa0/roblox-rojo-game-template) - szablon gry Roblox: ekonomia po stronie serwera, sklep, UI pod telefon
-- [training-habit-tracker-pwa](https://github.com/mauupa0/training-habit-tracker-pwa) - dziennik treningów i nawyków, działa offline
-- [study-flashcards-from-notes](https://github.com/mauupa0/study-flashcards-from-notes) - fiszki, quizy i kursy z własnych notatek
+## Stack
+
+- **Languages:** JavaScript, Java, C++, SQL, Luau, HTML, CSS
+- **Web and data:** React, Next.js, Node.js, Tailwind CSS, PostgreSQL, Supabase, SQLite
+- **Games:** Roblox Studio, Rojo, Unity
+- **Tools:** Git, GitHub Actions, Vercel, Cloudflare Workers, Playwright, Linux, Claude Code
+
+## Public repositories
+
+- [claude-code-skills-pl](https://github.com/mauupa0/claude-code-skills-pl) - Claude Code skills taken from production work
+- [roblox-rojo-game-template](https://github.com/mauupa0/roblox-rojo-game-template) - Roblox game template: server-side economy, shop, phone-first UI
+- [training-habit-tracker-pwa](https://github.com/mauupa0/training-habit-tracker-pwa) - training and habit log that works offline
+- [study-flashcards-from-notes](https://github.com/mauupa0/study-flashcards-from-notes) - flashcards, quizzes and courses generated from your own notes
